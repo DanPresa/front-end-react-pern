@@ -1,0 +1,22 @@
+.react-bootstrap-table-page-btns-ul {
+    float: right;
+
+    @media( max-width: 768px ) {
+        float: left;
+    }
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.link {
+    color: #000;
+    :hover {
+        color: #ccc;
+    }
+}
+
+.icon-table {
+    font-size: 22px;
+}
